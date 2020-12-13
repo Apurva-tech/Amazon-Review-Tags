@@ -53,7 +53,7 @@ The accuracy of the NLP model can be increased in the future.
 - [x] Clone the repository to your local directory
 - `https://github.com/Apurva-tech/Amazon-Review-Tags`
 
-- [x] Download all the requirements
+- [x] Download all the requirements.
 
 - [x] Run the colab .ipynb file
 
